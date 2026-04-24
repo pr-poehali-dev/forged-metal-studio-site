@@ -167,8 +167,8 @@ export default function CatalogServicesContacts() {
                   </div>
                   <div>
                     <p className="font-golos text-xs tracking-widest uppercase text-gold mb-1">Телефон</p>
-                    <a href="tel:+79780000000" className="font-cormorant text-xl font-light hover:text-gold transition-colors">
-                      +7 (978) 000-00-00
+                    <a href="tel:+79787289754" className="font-cormorant text-xl font-light hover:text-gold transition-colors">
+                      +7 (978) 728-97-54
                     </a>
                   </div>
                 </div>
@@ -252,8 +252,8 @@ export default function CatalogServicesContacts() {
         <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <span className="font-cormorant text-lg tracking-[0.15em] uppercase text-gold">Кузница</span>
           <p className="font-golos text-xs text-muted-foreground">© 2024 Студия художественной ковки · Белогорск, Крым</p>
-          <a href="tel:+79780000000" className="font-golos text-xs tracking-widest uppercase text-muted-foreground hover:text-gold transition-colors">
-            +7 (978) 000-00-00
+          <a href="tel:+79787289754" className="font-golos text-xs tracking-widest uppercase text-muted-foreground hover:text-gold transition-colors">
+            +7 (978) 728-97-54
           </a>
         </div>
       </footer>
